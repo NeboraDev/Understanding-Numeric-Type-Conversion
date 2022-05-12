@@ -1,0 +1,9 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\ps22dmendoza\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\ps22dmendoza\\.nuget\\packages",
+      "C:\\Microsoft\\Xamarin\\NuGet"
+    ]
+  }
+}
